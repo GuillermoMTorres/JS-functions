@@ -7,4 +7,7 @@ Exercise about some JS functions. The exercises are the follow:
 - calculateAverage function: it has to return the average of every number in a array
 - Write a function charFreq() that takes a string and builds a frequency listing of the characters contained in it as an Object
 - Build a program that transform a boring array into an awesome array
--
+
+# Structure
+
+![alt text](https://image.prntscr.com/image/a6gngD2URHGTXSc-iswscA.png)
